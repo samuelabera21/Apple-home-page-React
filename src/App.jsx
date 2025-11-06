@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import Header from './components/First/header.jsx'
+import Header from './components/First/Header.jsx'
 import Footer from './components/First/Footer.jsx'
 import Sectionone  from './components/First/Sectionone.jsx'
 import Sectiontwo from './components/First/Sectiontwo.jsx'
